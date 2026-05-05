@@ -58,7 +58,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tousifmuhimine&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
---
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=F7B801&center=true&vCenter=true&width=900&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;First%2C+solve+the+problem.+Then%2C+write+the+code.;Experience+is+the+name+everyone+gives+to+their+mistakes." />
